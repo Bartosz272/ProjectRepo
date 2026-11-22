@@ -53,3 +53,7 @@ rsconnect/
 src/*.o
 src/*.so
 src/*.dll
+
+# Git - Large File Storage
+git lfs track "*.psd"
+
